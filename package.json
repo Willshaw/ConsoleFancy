@@ -1,5 +1,5 @@
 {
-  "name": "ConsoleFancy",
+  "name": "console-fancy",
   "version": "1.0.0",
   "description": "Improve console.log output in Node scripts",
   "main": "ConsoleFancy.js",
@@ -15,5 +15,6 @@
     "console"
   ],
   "author": "Peter Williamson",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {}
 }
