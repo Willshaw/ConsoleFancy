@@ -1,6 +1,6 @@
 {
   "name": "console-fancy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Improve console.log output in Node scripts",
   "main": "ConsoleFancy.js",
   "scripts": {
