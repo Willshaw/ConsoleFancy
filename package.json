@@ -1,0 +1,19 @@
+{
+  "name": "ConsoleFancy",
+  "version": "1.0.0",
+  "description": "Improve console.log output in Node scripts",
+  "main": "ConsoleFancy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Willshaw/ConsoleFancy/"
+  },
+  "keywords": [
+    "node",
+    "console"
+  ],
+  "author": "Peter Williamson",
+  "license": "MIT"
+}
