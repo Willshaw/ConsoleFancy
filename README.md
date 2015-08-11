@@ -13,5 +13,5 @@ Other styling types to come in the future
 var ConsoleFancy= require('console-fancy'),
 	consoleFancy= new ConsoleFancy();
 
-	consoleFancy.header('Getting list of containers from Rackspace');
+consoleFancy.header('Getting list of containers from Rackspace');
 ```
